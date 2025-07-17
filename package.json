@@ -1,0 +1,13 @@
+{
+  "name": "javafx-example",
+  "version": "1.0.0",
+  "description": "Modern JavaFX example project",
+  "main": "src/Main.java",
+  "scripts": {
+    "build": "./scripts/build.sh",
+    "test": "./scripts/test.sh",
+    "deploy": "./scripts/deploy.sh"
+  },
+  "author": "hkevin01",
+  "license": "MIT"
+}

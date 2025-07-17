@@ -1,0 +1,12 @@
+{
+  "behavior": {
+    "suggestionMode": "modern",
+    "commentStyle": "detailed",
+    "preferModular": true
+  },
+  "prompts": [
+    "Refactor for modularity and readability.",
+    "Add comments and docstrings where needed.",
+    "Follow Java best practices."
+  ]
+}
